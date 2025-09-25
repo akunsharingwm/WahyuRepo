@@ -34,5 +34,17 @@ public final class services
 
                 
 	}
+
+
+
+	public static final void testJavaFile2 (IData pipeline)
+        throws ServiceException
+	{
+		// --- <<IS-START(testJavaFile2)>> ---
+		// @sigtype java 3.5
+		// --- <<IS-END>> ---
+
+                
+	}
 }
 
